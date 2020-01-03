@@ -1,0 +1,6 @@
+﻿  SP19_CST136_2.cpp
+  mayan.cpp
+c:\users\jamie\desktop\cst 136 c++ oop\lab 2\lab-2-brody9\sp19_cst136_2\mayan.cpp(60): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  test_mayan.cpp
+  Generating Code...
+  SP19_CST136_2.vcxproj -> C:\Users\Jamie\Desktop\CST 136 C++ OOP\lab 2\lab-2-Brody9\x64\Debug\SP19_CST136_2.exe
