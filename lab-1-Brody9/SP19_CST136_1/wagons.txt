@@ -1,0 +1,11 @@
+Boyd|3300|Oxen|2
+Cary|7806|Oxen|4
+Barker|4707|Horse|4
+Boggus|4700|Oxen|2
+Bond|3600|Horse|4
+Applegate|5522|Oxen|4
+Burnett|3700|Horse|4
+Arthur|2219|Oxen|2
+Adams|4505|Oxen|4
+Aiken|6205|Oxen|4
+Beagle|6666|Oxen|4

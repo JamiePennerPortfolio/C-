@@ -1,0 +1,7 @@
+Samson|4300|Oxen|2
+Grant|6806|Oxen|4
+Able|4717|Horse|4
+Donner|2219|Oxen|2
+Jefferson|4505|Oxen|4
+Conrad|6205|Oxen|4
+Wolf|6666|Oxen|4
